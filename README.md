@@ -3,11 +3,14 @@
 I'm a cybersecurity student passionate about all things security in the digital world.
 
 
+
 :mortar_board: Currently a cybersecurity student, always eager to learn.
 
 :computer: Exploring pentesting, network security, and vulnerability analysis.
 
 :key: Advocate for online security and privacy protection.
+
+
 
 Feel free to explore my projects and contributions! :rocket:#  
 
