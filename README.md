@@ -38,7 +38,7 @@ Feel free to explore my projects and contributions! :rocket:#
 
 <p align="center">
     <b>Looking for a cybersecurity intern?
-        <a href="www.linkedin.com/in/david-laun-6b211120b">Let's connect and talk!</a>
+        <a href="https://www.linkedin.com/in/david-laun-6b211120b">Let's connect and talk!</a>
     </b>
 </p>
 
