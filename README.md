@@ -1,7 +1,7 @@
 ## Hi, I'm Vidax :wave:
 
 I'm a cybersecurity student passionate about all things security in the digital world.
-About Me
+
 
 :mortar_board: Currently a cybersecurity student, always eager to learn.
 
