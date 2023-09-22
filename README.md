@@ -31,7 +31,7 @@ Feel free to explore my projects and contributions! :rocket:#
 
 <img align="right" alt="hacking_monkey' " width="350" src="img/giphy.gif" />
 
-![TryHackMe Badge](https://tryhackme.com/badge/1884147)
+![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/vidaxxx.png" alt="TryHackMe">)
 ![codewars stats](https://www.codewars.com/users/Vidaxxxxx/badges/large)
 
 
