@@ -35,7 +35,7 @@ Feel free to explore my projects and contributions! :rocket:#
 
 ![codewars stats](https://www.codewars.com/users/Vidaxxxxx/badges/large)
 
-![TryHackMe Badge](https://tryhackme.com/p/vidaxxx?show_achievement_badg=burped)
+![TryHackMe Badge](https://tryhackme.com/vidaxxx/badges/burped)
 
 
 
